@@ -36,5 +36,9 @@ Type your queries directly into the terminal. To end the simulation and generate
 
 2. No UI: As per the assignment requirements, this is a terminal-based CLI script, not a web application.
 
+## Conclusion
+This prototype demonstrates a robust, safety-first approach to LLM implementation in a customer-facing environment. By strictly enforcing SOP boundaries and intelligently routing edge cases, it successfully mitigates the common risks of AI hallucination in commercial applications. 
 
-
+---
+**Built by Lipika Parida**
+[GitHub](https://github.com/lipikaparida-web) | [LinkedIn](https://www.linkedin.com/in/lipikaparida3)
