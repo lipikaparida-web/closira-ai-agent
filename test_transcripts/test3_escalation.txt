@@ -1,0 +1,19 @@
+python agent.py
+Welcome to Bloom Aesthetics Clinic (AI Prototype).
+Type 'quit' to end the simulation.
+--------------------------------------------------
+
+Customer: Your prices are absolutely ridiculous, I am extremely unhappy with this service!
+
+Closira AI: I'm very sorry to hear that you're feeling this way. I understand your frustration, and I want to make sure this is handled properly. A human team member will be with you shortly to address your concerns directly.
+
+[SYSTEM LOG: Escalation Trigger Detected. Handoff initiated.]
+
+==================================================
+SESSION ENDED. GENERATING SUMMARY...
+
+**Customer Intent:** To complain about the high cost of the service and express extreme dissatisfaction.
+
+**Key Details Collected:** The agent has identified the general issue (pricing) and the customer's emotional state (extreme unhappiness). No specific details (e.g., account number, plan name) were collected.
+
+**Recommended Next Action:** Escalate the conversation to a human agent as promised. This is necessary to address the customer's emotional state and handle the complex pricing complaint effectively.

@@ -1,0 +1,28 @@
+python agent.py
+Welcome to Bloom Aesthetics Clinic (AI Prototype).
+Type 'quit' to end the simulation.
+--------------------------------------------------
+
+Customer: Do you guys offer laser hair removal?
+
+Closira AI: Thank you for asking about laser hair removal. That's not one of the services I have details on in my current list.
+
+I can connect you with one of our specialists who can confirm this for you and provide more information. Would you like me to arrange that?
+
+[SYSTEM LOG: Escalation Trigger Detected. Handoff initiated.]
+
+==================================================
+SESSION ENDED. GENERATING SUMMARY...
+
+### Chat Log Summary
+
+**Customer Intent:**
+To inquire about the availability of laser hair removal services.
+
+**Key Details Collected:**
+*   Service in question: Laser hair removal.
+*   Agent's knowledge: Does not have specific details on this service.
+*   Proposed solution: Connect the customer with a specialist.
+
+**Recommended Next Action:**
+Await the customer's confirmation to connect them with a specialist. If confirmed, proceed with arranging the connection.

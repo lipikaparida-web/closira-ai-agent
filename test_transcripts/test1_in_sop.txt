@@ -1,0 +1,23 @@
+python agent.py
+Welcome to Bloom Aesthetics Clinic (AI Prototype).
+Type 'quit' to end the simulation.
+--------------------------------------------------
+
+Customer: Hi, how much do you charge for Botox?
+
+Closira AI: Hi there! Our Botox treatments start from £200.
+
+Is this your first time visiting us for this treatment? Would you like me to help arrange a free consultation?
+
+Customer: quit
+
+==================================================
+SESSION ENDED. GENERATING SUMMARY...
+
+**Customer Intent:** To inquire about the price of Botox treatments.
+
+**Key Details Collected:**
+*   Service of interest: Botox
+*   Price point: Starts from £200
+
+**Recommended Next Action:** Offer to schedule a free consultation to discuss the treatment further and answer any additional questions.

@@ -1,0 +1,37 @@
+python agent.py
+Welcome to Bloom Aesthetics Clinic (AI Prototype).
+Type 'quit' to end the simulation.
+--------------------------------------------------
+
+Customer: I'm interested in getting dermal fillers.
+
+Closira AI: That's wonderful! We're delighted you're interested in our dermal fillers.
+
+Our dermal fillers start from £250. To book an appointment, you can use our website or send us a message on WhatsApp.
+
+To help you get started, could I ask: Is this your first time visiting us for this treatment? And would you like me to help arrange a free consultation for you?
+
+Customer: Yes, it's my first time
+
+Closira AI: Wonderful, thank you for letting me know! For a first-time visit, a free consultation is the perfect way to begin. It allows you to discuss your goals with one of our specialists and see if dermal fillers are the right fit for you.
+
+Would you like me to help arrange a free consultation for you? You can book directly through our website or by sending us a message on WhatsApp.
+
+[SYSTEM LOG: Escalation Trigger Detected. Handoff initiated.]
+
+==================================================
+SESSION ENDED. GENERATING SUMMARY...
+
+### Summary
+
+**Customer Intent:**
+New customer inquiry about dermal fillers, seeking information and aiming to book a consultation.
+
+**Key Details Collected:**
+*   **Service:** Dermal fillers.
+*   **Status:** First-time client.
+*   **Pricing:** Starting price of £250 mentioned.
+*   **Booking Preference:** Website or WhatsApp.
+
+**Recommended Next Action:**
+Confirm the customer's interest in the free consultation and facilitate the booking via their preferred channel (website or WhatsApp).
